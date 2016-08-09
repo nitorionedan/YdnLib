@@ -1,5 +1,6 @@
 // YdnLib.cpp : DLL アプリケーション用にエクスポートされる関数を定義します。
-//
+// @referenced	https://msdn.microsoft.com/ja-jp/library/ms235636.aspx
+
 
 #include "stdafx.h"
 #include "YdnLib.h"
